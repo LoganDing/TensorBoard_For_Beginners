@@ -1,4 +1,4 @@
-# Tensorboard_Example
+# TensorBoard_Example
 
 Example of how to use TensorBoard in TensorFlow 
 
