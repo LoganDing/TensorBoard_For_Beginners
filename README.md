@@ -1,6 +1,6 @@
 # Tensorboard_Example
 
-Example of how to use Tensorboard in TensorFlow 
+Example of how to use TensorBoard in TensorFlow 
 
 # Setup
 
