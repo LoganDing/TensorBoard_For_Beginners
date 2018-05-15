@@ -10,7 +10,7 @@ Either clone or download the repo then run the following command inside the dire
 pip install requirements.txt
 ```
 
-This will ensure that you have correct packages installed in order to run the notebook
+This will ensure that you have the correct packages installed in order to run the notebook
 
 ***Note: If you do not have Jupyter installed, run the following command:***
 
